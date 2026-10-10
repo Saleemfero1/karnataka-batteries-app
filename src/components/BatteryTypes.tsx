@@ -5,9 +5,8 @@ const BatteryTypes = () => {
       <span className="chip">🚛 Three-Wheelers</span>
       <span className="chip">🚚 Heavy Commercial</span>
       <span className="chip">🚜 Tractors</span>
-      <span className="chip">🚗 Automotive</span>
       <span className="chip">🏠 Home Inverter</span>
-      <span className="chip">☀️ Solar & Energy</span>
+      <span className="chip">☀️ SMF Batteries and Lithium Batteries</span>
     </div>
   );
 };
